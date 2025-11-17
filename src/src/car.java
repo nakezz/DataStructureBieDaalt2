@@ -1,6 +1,6 @@
-public class Car{
+public class car {
     String plateNumber;
-    Car(String plateNumber){
+    car(String plateNumber){
         this.plateNumber = plateNumber;
     }
     public String toString(){
